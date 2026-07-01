@@ -42,7 +42,7 @@ export default function Home() {
   return (
     <div style={{ maxWidth: 480, margin: "0 auto", minHeight: "100vh", display: "flex", flexDirection: "column", background: "#faf7f2" }}>
       <header style={{ padding: "16px 20px", background: "#4a5d43", color: "white", display: "flex", alignItems: "center", gap: 12 }}>
-        <img src="/logo.png" alt="The Yogic Bowl" style={{ width: 44, height: 44, borderRadius: "50%", objectFit: "cover" }} />
+        <img src="/Screenshot_2026-06-13-20-42-40-578_com.instagram.android.jpg" alt="The Yogic Bowl" style={{ width: 44, height: 44, borderRadius: "50%", objectFit: "cover" }} />
         <div>
           <h1 style={{ margin: 0, fontSize: 20 }}>The Yogic Bowl</h1>
           <p style={{ margin: "4px 0 0", fontSize: 13, opacity: 0.85 }}>Menu Assistant</p>
