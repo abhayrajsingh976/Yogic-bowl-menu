@@ -1,4 +1,3 @@
-export default menu;
 // EDIT THIS FILE with your real menu, prices, and details.
 // The AI assistant reads this to answer customer questions.
 
