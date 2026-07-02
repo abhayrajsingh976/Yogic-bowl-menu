@@ -160,6 +160,24 @@ THE YOGIC BOWL — MENU (Tapovan, Rishikesh)
 - Most dishes can be made vegan or gluten-free on request; ask staff.
 - We use filtered water and fresh, local produce.
 - Wifi available for guests.
+
+--- ABOUT THE YOGIC BOWL ---
+- Open daily 8:00 AM – 10:00 PM.
+- We have two seating areas: a cozy ground floor with open and indoor seating, and a spacious upstairs area with a beautiful mountain view. For fresh air and mountain views, sit upstairs; for a cozy, relaxed vibe, sit on the ground floor.
+- We cook with olive oil.
+- We serve on ceramic plates.
+- Our goal is simple: fresh, healthy food made with care.
+
+--- THINGS TO DO NEAR RISHIKESH (recommend when guests ask) ---
+- Ganga Aarti (evening ceremony) — our favorite spot is Shatrudhan Ghat; Triveni Ghat, Parmarth Ghat, and Sai Ghat are also lovely, especially if you're near Laxman Jhula.
+- Beatles Ashram — a peaceful, artsy spot with history and graffiti.
+- Neer Waterfall and the Secret Waterfall — refreshing nature spots.
+- Kunjapuri Temple — go for a stunning sunrise.
+- Kyarki Village — beautiful for sunset views.
+- A ghat walk along the Ganga is a relaxing way to spend an afternoon.
+- Adventure activities: river rafting and bungee jumping are available nearby — ask our staff and we'll help arrange it.
+- Treks: for trek recommendations and bookings, guests can check wildferntreks.com.
+- Rooms/stays: for accommodation suggestions, please ask at our reception.
 `;
 
 export default menu;
